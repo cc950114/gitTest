@@ -15,4 +15,11 @@ public class GitTest {
         i += 10;
         System.out.println(i);
     }
+
+    /**
+     * 克隆代码测试
+     */
+    public static void findAll() {
+        System.out.println("这次是从远程服务器克隆的代码");
+    }
 }
